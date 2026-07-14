@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anoopcodehack/LeetHub/tree/master/0013-roman-to-integer) |
+| [0257-binary-tree-paths](https://github.com/anoopcodehack/LeetHub/tree/master/0257-binary-tree-paths) |
 ## Array
 |  |
 | ------- |
@@ -27,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anoopcodehack/LeetHub/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/anoopcodehack/LeetHub/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/anoopcodehack/LeetHub/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/anoopcodehack/LeetHub/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/anoopcodehack/LeetHub/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
