@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/anoopcodehack/LeetHub/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anoopcodehack/LeetHub/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anoopcodehack/LeetHub/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
