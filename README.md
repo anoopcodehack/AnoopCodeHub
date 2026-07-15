@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anoopcodehack/LeetHub/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anoopcodehack/LeetHub/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anoopcodehack/LeetHub/tree/master/0011-container-with-most-water) |
+| [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/anoopcodehack/LeetHub/tree/master/0257-binary-tree-paths) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
