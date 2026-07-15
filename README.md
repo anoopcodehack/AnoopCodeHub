@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anoopcodehack/LeetHub/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/anoopcodehack/LeetHub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anoopcodehack/LeetHub/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/anoopcodehack/LeetHub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anoopcodehack/LeetHub/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/anoopcodehack/LeetHub/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
