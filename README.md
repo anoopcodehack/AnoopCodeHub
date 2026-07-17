@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anoopcodehack/LeetHub/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/anoopcodehack/LeetHub/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anoopcodehack/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anoopcodehack/LeetHub/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anoopcodehack/LeetHub/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/anoopcodehack/LeetHub/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/anoopcodehack/LeetHub/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
