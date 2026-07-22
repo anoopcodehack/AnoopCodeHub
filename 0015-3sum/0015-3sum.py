@@ -21,6 +21,6 @@ class Solution:
                     j+=1
                 else:
                     k-=1
-        return ans                   
+        return ans  
 
-            
+      
