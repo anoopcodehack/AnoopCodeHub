@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anoopcodehack/LeetHub/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/anoopcodehack/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anoopcodehack/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/anoopcodehack/LeetHub/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/anoopcodehack/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0523-continuous-subarray-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anoopcodehack/LeetHub/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/anoopcodehack/LeetHub/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
@@ -129,9 +131,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anoopcodehack/LeetHub/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/anoopcodehack/LeetHub/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anoopcodehack/LeetHub/tree/master/3499-maximize-active-section-with-trade-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anoopcodehack/LeetHub/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anoopcodehack/LeetHub/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
