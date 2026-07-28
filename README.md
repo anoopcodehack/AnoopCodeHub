@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/anoopcodehack/LeetHub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anoopcodehack/LeetHub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anoopcodehack/LeetHub/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/anoopcodehack/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anoopcodehack/LeetHub/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anoopcodehack/LeetHub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anoopcodehack/LeetHub/tree/master/0055-jump-game) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/anoopcodehack/LeetHub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anoopcodehack/LeetHub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anoopcodehack/LeetHub/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/anoopcodehack/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anoopcodehack/LeetHub/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/anoopcodehack/LeetHub/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anoopcodehack/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anoopcodehack/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anoopcodehack/LeetHub/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anoopcodehack/LeetHub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anoopcodehack/LeetHub/tree/master/0055-jump-game) |
@@ -146,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anoopcodehack/LeetHub/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anoopcodehack/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/anoopcodehack/LeetHub/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anoopcodehack/LeetHub/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anoopcodehack/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
