@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/anoopcodehack/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anoopcodehack/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/anoopcodehack/LeetHub/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anoopcodehack/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/anoopcodehack/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0523-continuous-subarray-sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/anoopcodehack/LeetHub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anoopcodehack/LeetHub/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/anoopcodehack/LeetHub/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anoopcodehack/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anoopcodehack/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/anoopcodehack/LeetHub/tree/master/3536-maximum-product-of-two-digits) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anoopcodehack/LeetHub/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anoopcodehack/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anoopcodehack/LeetHub/tree/master/0200-number-of-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anoopcodehack/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anoopcodehack/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
