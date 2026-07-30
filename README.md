@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anoopcodehack/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anoopcodehack/LeetHub/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anoopcodehack/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/anoopcodehack/LeetHub/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anoopcodehack/LeetHub/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anoopcodehack/LeetHub/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/anoopcodehack/LeetHub/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anoopcodehack/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/anoopcodehack/LeetHub/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anoopcodehack/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anoopcodehack/LeetHub/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Array
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/anoopcodehack/LeetHub/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/anoopcodehack/LeetHub/tree/master/0134-gas-station) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anoopcodehack/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anoopcodehack/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
 | ------- |
