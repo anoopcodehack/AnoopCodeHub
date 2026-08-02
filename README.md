@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/anoopcodehack/LeetHub/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anoopcodehack/LeetHub/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/anoopcodehack/LeetHub/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/anoopcodehack/LeetHub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0523-continuous-subarray-sum) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/anoopcodehack/LeetHub/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anoopcodehack/LeetHub/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anoopcodehack/LeetHub/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/anoopcodehack/LeetHub/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/anoopcodehack/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/anoopcodehack/LeetHub/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/anoopcodehack/LeetHub/tree/master/0877-stone-game) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/anoopcodehack/LeetHub/tree/master/0877-stone-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anoopcodehack/LeetHub/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
