@@ -1,24 +1,15 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int h = 1;
-        int l = 1;
-        int ph = 1;
-        int pl = 1;
-
-        int m = *max_element(nums.begin(), nums.end());
-
-        for (int i : nums) {
-            h = i * ph;
-            l = i * pl;
-
-            ph = max({h, l, i});
-            pl = min({h, l, i});
-
-            if (m < ph)
-                m = ph;
+        int n=nums.size();
+        int maxAns=-10;
+        for(int i =0;i<n;i++){
+            int prod=1;
+            for(int j=i;j<n;j++){
+                prod*=nums[j];
+                maxAns=max(maxAns,prod);
+            }
         }
-
-        return m;
+        return maxAns;
     }
 };
