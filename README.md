@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anoopcodehack/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anoopcodehack/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/anoopcodehack/LeetHub/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/anoopcodehack/LeetHub/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/anoopcodehack/LeetHub/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/anoopcodehack/LeetHub/tree/master/1260-shift-2d-grid) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anoopcodehack/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anoopcodehack/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [0713-subarray-product-less-than-k](https://github.com/anoopcodehack/LeetHub/tree/master/0713-subarray-product-less-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/anoopcodehack/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anoopcodehack/LeetHub/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/anoopcodehack/LeetHub/tree/master/0713-subarray-product-less-than-k) |
 ## Stack
 |  |
 | ------- |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anoopcodehack/LeetHub/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/anoopcodehack/LeetHub/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
