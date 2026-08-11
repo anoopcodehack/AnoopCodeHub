@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/anoopcodehack/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anoopcodehack/LeetHub/tree/master/0560-subarray-sum-equals-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/anoopcodehack/LeetHub/tree/master/0992-subarrays-with-k-different-integers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anoopcodehack/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/anoopcodehack/LeetHub/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/anoopcodehack/LeetHub/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/anoopcodehack/LeetHub/tree/master/0877-stone-game) |
+| [0992-subarrays-with-k-different-integers](https://github.com/anoopcodehack/LeetHub/tree/master/0992-subarrays-with-k-different-integers) |
 | [1260-shift-2d-grid](https://github.com/anoopcodehack/LeetHub/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anoopcodehack/LeetHub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anoopcodehack/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anoopcodehack/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/anoopcodehack/LeetHub/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/anoopcodehack/LeetHub/tree/master/0992-subarrays-with-k-different-integers) |
 ## Queue
 |  |
 | ------- |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anoopcodehack/LeetHub/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/anoopcodehack/LeetHub/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
