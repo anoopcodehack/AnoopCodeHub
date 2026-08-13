@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/anoopcodehack/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anoopcodehack/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/anoopcodehack/LeetHub/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anoopcodehack/LeetHub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/anoopcodehack/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/anoopcodehack/LeetHub/tree/master/0239-sliding-window-maximum) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anoopcodehack/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anoopcodehack/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/anoopcodehack/LeetHub/tree/master/0713-subarray-product-less-than-k) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anoopcodehack/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anoopcodehack/LeetHub/tree/master/0560-subarray-sum-equals-k) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/anoopcodehack/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/anoopcodehack/LeetHub/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anoopcodehack/LeetHub/tree/master/0992-subarrays-with-k-different-integers) |
