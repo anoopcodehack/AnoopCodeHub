@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anoopcodehack/LeetHub/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anoopcodehack/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/anoopcodehack/LeetHub/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/anoopcodehack/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/anoopcodehack/LeetHub/tree/master/0344-reverse-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/anoopcodehack/LeetHub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anoopcodehack/LeetHub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anoopcodehack/LeetHub/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anoopcodehack/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/anoopcodehack/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anoopcodehack/LeetHub/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/anoopcodehack/LeetHub/tree/master/0125-valid-palindrome) |
@@ -265,4 +267,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/anoopcodehack/LeetHub/tree/master/0992-subarrays-with-k-different-integers) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anoopcodehack/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anoopcodehack/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anoopcodehack/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anoopcodehack/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
