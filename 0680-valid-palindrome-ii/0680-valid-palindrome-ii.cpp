@@ -1,28 +1,22 @@
 class Solution {
 public:
-    bool isPalindrome(string& s, int left, int right) {
-        while (left < right) {
-            if (s[left] != s[right])
+    bool check(string& s, int l, int r) {
+        while (l < r) {
+            if (s[l++] != s[r--])
                 return false;
-
-            left++;
-            right--;
         }
         return true;
     }
 
     bool validPalindrome(string s) {
-        int left = 0;
-        int right = s.length() - 1;
+        int l = 0, r = s.size() - 1;
 
-        while (left < right) {
-            if (s[left] != s[right]) {
-                return isPalindrome(s, left + 1, right) ||
-                       isPalindrome(s, left, right - 1);
-            }
+        while (l < r) {
+            if (s[l] != s[r])
+                return check(s, l + 1, r) || check(s, l, r - 1);
 
-            left++;
-            right--;
+            l++;
+            r--;
         }
 
         return true;
