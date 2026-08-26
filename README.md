@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anoopcodehack/LeetHub/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/anoopcodehack/LeetHub/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anoopcodehack/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0523-continuous-subarray-sum) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/anoopcodehack/LeetHub/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/anoopcodehack/LeetHub/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anoopcodehack/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0076-minimum-window-substring](https://github.com/anoopcodehack/LeetHub/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/anoopcodehack/LeetHub/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/anoopcodehack/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/anoopcodehack/LeetHub/tree/master/0344-reverse-string) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/anoopcodehack/LeetHub/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/anoopcodehack/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/anoopcodehack/LeetHub/tree/master/0713-subarray-product-less-than-k) |
