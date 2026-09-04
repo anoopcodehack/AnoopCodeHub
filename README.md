@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/anoopcodehack/LeetHub/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/anoopcodehack/LeetHub/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anoopcodehack/LeetHub/tree/master/0992-subarrays-with-k-different-integers) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/anoopcodehack/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/anoopcodehack/LeetHub/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anoopcodehack/LeetHub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anoopcodehack/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/anoopcodehack/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/anoopcodehack/LeetHub/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/anoopcodehack/LeetHub/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/anoopcodehack/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
