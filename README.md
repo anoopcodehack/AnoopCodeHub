@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anoopcodehack/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/anoopcodehack/LeetHub/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anoopcodehack/LeetHub/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/anoopcodehack/LeetHub/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anoopcodehack/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anoopcodehack/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anoopcodehack/LeetHub/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/anoopcodehack/LeetHub/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/anoopcodehack/LeetHub/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anoopcodehack/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/anoopcodehack/LeetHub/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Bit Manipulation
 |  |
 | ------- |
