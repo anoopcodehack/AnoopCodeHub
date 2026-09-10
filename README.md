@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/anoopcodehack/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anoopcodehack/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/anoopcodehack/LeetHub/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/anoopcodehack/LeetHub/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/anoopcodehack/LeetHub/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/anoopcodehack/LeetHub/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/anoopcodehack/LeetHub/tree/master/0877-stone-game) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/anoopcodehack/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/anoopcodehack/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anoopcodehack/LeetHub/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/anoopcodehack/LeetHub/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anoopcodehack/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/anoopcodehack/LeetHub/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/anoopcodehack/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/anoopcodehack/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anoopcodehack/LeetHub/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/anoopcodehack/LeetHub/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anoopcodehack/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
