@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anoopcodehack/LeetHub/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/anoopcodehack/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/anoopcodehack/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anoopcodehack/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anoopcodehack/LeetHub/tree/master/0503-next-greater-element-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/anoopcodehack/LeetHub/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anoopcodehack/LeetHub/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/anoopcodehack/LeetHub/tree/master/0134-gas-station) |
+| [0410-split-array-largest-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/anoopcodehack/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anoopcodehack/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anoopcodehack/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/anoopcodehack/LeetHub/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anoopcodehack/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/anoopcodehack/LeetHub/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/anoopcodehack/LeetHub/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anoopcodehack/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/anoopcodehack/LeetHub/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/anoopcodehack/LeetHub/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/anoopcodehack/LeetHub/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/anoopcodehack/LeetHub/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/anoopcodehack/LeetHub/tree/master/0877-stone-game) |
 ## Prefix Sum
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anoopcodehack/LeetHub/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anoopcodehack/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/anoopcodehack/LeetHub/tree/master/0713-subarray-product-less-than-k) |
