@@ -342,4 +342,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anoopcodehack/LeetHub/tree/master/0005-longest-palindromic-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anoopcodehack/LeetHub/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anoopcodehack/LeetHub/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
