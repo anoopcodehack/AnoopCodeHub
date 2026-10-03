@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anoopcodehack/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/anoopcodehack/LeetHub/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anoopcodehack/LeetHub/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anoopcodehack/LeetHub/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/anoopcodehack/LeetHub/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anoopcodehack/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anoopcodehack/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/anoopcodehack/LeetHub/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/anoopcodehack/LeetHub/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anoopcodehack/LeetHub/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anoopcodehack/LeetHub/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
