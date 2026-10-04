@@ -4,17 +4,17 @@ public:
         unordered_map<int, int> mp;
         mp[0] = 1;
 
-        int prefixSum = 0;
+        int sum = 0;
         int count = 0;
 
         for (int num : nums) {
-            prefixSum += num;
+            sum += num;
 
-            if (mp.count(prefixSum - k)) {
-                count += mp[prefixSum - k];
+            if (mp.find(sum - k) != mp.end()) {
+                count += mp[sum - k];
             }
 
-            mp[prefixSum]++;
+            mp[sum]++;
         }
 
         return count;
