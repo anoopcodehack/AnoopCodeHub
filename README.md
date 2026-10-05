@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/anoopcodehack/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anoopcodehack/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/anoopcodehack/LeetHub/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/anoopcodehack/LeetHub/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/anoopcodehack/LeetHub/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anoopcodehack/LeetHub/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/anoopcodehack/LeetHub/tree/master/0867-transpose-matrix) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/anoopcodehack/LeetHub/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anoopcodehack/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/anoopcodehack/LeetHub/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/anoopcodehack/LeetHub/tree/master/0724-find-pivot-index) |
 ## Stack
 |  |
 | ------- |
